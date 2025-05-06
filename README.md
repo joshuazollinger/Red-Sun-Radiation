@@ -1,2 +1,0 @@
-# Red-Sun-Radiation
-RSR
